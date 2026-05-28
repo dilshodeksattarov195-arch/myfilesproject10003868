@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpave",
+        "uuid": 24728124,
+        "checksum": "flsl2p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
